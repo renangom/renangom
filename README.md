@@ -1,7 +1,7 @@
 # Hi!! I am Renan Lopes, a physicist trying to become a software developer
 
 - 🔭 I'm searching for my first job opportunity 
-- 📖 I'm currently studying a lot of ReactJS, NodeJS with Typescript
+- 📖 I'm currently studying a lot of ReactJS and NodeJS with Typescript
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
